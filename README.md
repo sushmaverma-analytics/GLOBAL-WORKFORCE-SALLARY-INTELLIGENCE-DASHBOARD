@@ -86,6 +86,7 @@ CALCULATE(
 -Company size influences pay, where large organizations generally provide higher salary packages.
 -Job roles and skill sets create noticeable salary differences, highlighting demand for specialized skills.
 -Remote and hybrid work patterns show slight variations in compensation trends across roles.
-##📊 Dashboard Preview
-!(
+## Dashboard Preview
+![Uploading Screenshot 2026-05-16 043719.png…]()
+
 
